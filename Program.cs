@@ -12,6 +12,7 @@ namespace GitHub_Repo
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Michael Stewart");
+			Console.WriteLine("Julien Vetter");
         }
     }
 }
